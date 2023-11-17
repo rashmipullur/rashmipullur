@@ -34,14 +34,8 @@ Feel free to explore my repositories and don't forget to ⭐️ your favorite pr
 
 ## 🌟 My GitHub Stats
 
-<a href="https://github.com/rashpullur/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashpullur&show_icons=true&hide=contribs&theme=transparent" />
-</a>
-<a href="https://github.com/rashpullur/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact" />
-</a>
-
 ![rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashpullur&show_icons=true&hide=contribs&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact)
 
 ## 🤝 Let's Collaborate!
