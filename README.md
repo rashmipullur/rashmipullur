@@ -35,7 +35,6 @@ Feel free to explore my repositories and don't forget to ⭐️ your favorite pr
 ## 🌟 My GitHub Stats
 
 ![rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashpullur&show_icons=true&hide=contribs&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact)
 
 ## 🤝 Let's Collaborate!
