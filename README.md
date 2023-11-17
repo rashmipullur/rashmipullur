@@ -41,6 +41,9 @@ Feel free to explore my repositories and don't forget to ⭐️ your favorite pr
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact&langs_count=8&card_width=100" />
 </a>
 
+![rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashpullur&show_icons=true&hide=contribs&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact)
+
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaboration and learning from fellow developers. If you have a project idea or just want to chat about tech, feel free to reach out. Together, we can build something amazing! 🚀
