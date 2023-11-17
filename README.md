@@ -38,7 +38,7 @@ Feel free to explore my repositories and don't forget to ⭐️ your favorite pr
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rashpullur&show_icons=true&hide=contribs&theme=transparent" />
 </a>
 <a href="https://github.com/rashpullur/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact&langs_count=8&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashpullur&layout=compact" />
 </a>
 
 ![rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashpullur&show_icons=true&hide=contribs&theme=transparent)
