@@ -21,7 +21,7 @@ I'm passionate about creating robust and scalable applications using Node.js and
 ## 🌐 Connect with Me
 
 - 📧 Email: pullur.rashmi@gmail.com
-- 💼 LinkedIn: [Rashmi Pullur](www.linkedin.com/in/rashmi-pullur)
+- 💼 LinkedIn: [Rashmi Pullur](https://www.linkedin.com/in/rashmi-pullur)
 
 ## 🌟 Projects
 
