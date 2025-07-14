@@ -20,7 +20,6 @@ vibe: "in my ‘build and binge’ era"
   <img src="https://img.shields.io/badge/📺%20Anime%20Status-Currently%20Watching-FF6B9D?style=for-the-badge&labelColor=0D1117" />
 </div>
 
----
 
 ## 🔮 Currently Vibing With
 
@@ -54,8 +53,6 @@ const rashmi = {
 
 </div>
 
----
-
 ## 🚀 Tech Stack That Hits Different
 
 <div align="center">
@@ -88,8 +85,6 @@ const rashmi = {
 
 </div>
 
----
-
 ## 📊 GitHub Stats 
 
 <div align="center">
@@ -105,15 +100,11 @@ const rashmi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmipullur&bg_color=0d1117&color=FF6B9D&line=4ECDC4&point=FFE66D&area=true&hide_border=true&custom_title=Contribution%20Graph%20%E2%9C%A8" alt="Contribution Graph" />
 </div>
 
----
-
 ## 🏆 Achievement Unlocked
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rashmipullur&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
-
----
 
 ## 🎯 Current Anime Arc... I mean Goals
 
@@ -145,8 +136,6 @@ const rashmi = {
     </tr>
   </table>
 </div>
-
----
 
 ## 💫 Let's Connect & Build Something Epic
 
